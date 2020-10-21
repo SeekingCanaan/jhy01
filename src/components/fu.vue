@@ -17,6 +17,7 @@ export default {
     gouwuche,
     testA
   },
+  //nidaye
   provide() {
     return {
       title: this.title,
