@@ -17,7 +17,7 @@ export default {
     gouwuche,
     testA
   },
-  //nidaye
+  //删除你大爷
   provide() {
     return {
       title: this.title,
