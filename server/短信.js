@@ -7,8 +7,8 @@ for (let i = 0; i < 6; i++) {
 }
 
 var client = new Core({
-    accessKeyId: 'LTAI4G5T5UuDQMeRhQE3okQR',
-    accessKeySecret: 'Wr12hqiq9QtVQ65faNMtHayGiGEEaH',
+    accessKeyId: '你的accessKeyId',
+    accessKeySecret: '你的accessKeySecret',
     endpoint: 'https://dysmsapi.aliyuncs.com',
     apiVersion: '2017-05-25'
 });
